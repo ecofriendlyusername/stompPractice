@@ -20,7 +20,7 @@ RabbitMQ(메시지 브로커) 설치
 설치하고 나면 아래와 같이 실행해줍니다
 \
 <img width="502" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/c1ead8ef-00fb-46a5-bd0d-05a2e7fabc2b">
-
+\
 
 2. 인텔리J에서 프로젝트 실행
    2.1 프로젝트 열기
