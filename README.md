@@ -74,7 +74,11 @@ RabbitMQ(메시지 브로커) 설치
    \
 
 3. 실행시 예시
+4. \
    <img width="254" alt="예시1" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/c60105ae-a1c8-4fc8-8066-309fa22670e1">
+   \
    이미 만들어진 채팅창 다른 브라우저에서 접속해보기
+   \
    <img width="261" alt="예시2" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/1735fb2b-fc26-407b-9a6e-fdacbd0aeec9">
+   \
    다른 브라우저에서 접속한 유저가 채팅하는 것을 확인 가능
