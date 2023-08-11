@@ -32,7 +32,7 @@ DemoApplication.java라는 파일 클릭해주면
 \
 <img width="942" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/34ced969-9d9a-45b9-b46a-90dee1773a51">
 \
-SDK 설정하라는 문구 나오면 자바17 선택
+Module JDK is not defined 옆에 Set up JDK를 클릭하여 자바17 선택
 \
 <img width="839" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/100200d2-0daa-43c8-8f2a-72cfef89bcfe">
 \
