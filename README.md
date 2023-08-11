@@ -37,7 +37,7 @@ RabbitMQ(메시지 브로커) 설치
    \
    <img width="942" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/34ced969-9d9a-45b9-b46a-90dee1773a51">
    \
-   Module JDK is not defined 옆에 Set up JDK를 클릭하여 SDK17 선택
+   Module JDK is not defined 옆에 Set up JDK를 클릭하여 SDK17(=JDK17) 선택
    \
    <img width="404" alt="project structure 설정하기" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/c33a0108-87b4-48d3-8b14-53ded047d399">
    \
