@@ -33,21 +33,6 @@ DemoApplication.java라는 파일 클릭해주면
 <img width="942" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/34ced969-9d9a-45b9-b46a-90dee1773a51">
 \
 Module JDK is not defined 옆에 Set up JDK를 클릭하여 자바17 선택
-\
-<img width="839" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/100200d2-0daa-43c8-8f2a-72cfef89bcfe">
-\
-<img width="712" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/063acefa-4308-43e4-aec3-2c9e18bf600d">
-\
-<img width="199" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/950f19e7-713e-4b65-8cac-98252434f1bd">
-\
-프로젝트 SDK 설정 되고나서 콘솔에 뭐 이것저것 써지는거 멈춰지고 나면 아래처럼 DemoApplication이 초록색 화살표 옆에 뜨는게 정상입니다!
-\
-초록색 화살표 클릭해서 백엔드 서버 실행하세요
-\
-<img width="668" alt="Screenshot 2023-08-11 at 11 30 57 AM" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/9efa93b5-df19-445b-a8d1-1e390a3c0c14">
-\
-복잡하다고 느끼실 수 있지만 한번만 설정해두면 나중엔 초록석 화살표만 누르면 됩니다.
-
 인텔리J에서 실행할 때 기준!!
 여기서는 sockJS 사용 불가능
 \
@@ -62,6 +47,25 @@ Module JDK is not defined 옆에 Set up JDK를 클릭하여 자바17 선택
 <img width="982" alt="settings 설정하기" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/94c62a97-2433-4289-8267-d7b63f3941fb">
 \
 위 처럼 설정되어있는지(자바17) 확인
+\
+<img width="839" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/100200d2-0daa-43c8-8f2a-72cfef89bcfe">
+\
+<img width="199" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/950f19e7-713e-4b65-8cac-98252434f1bd">
+\
+<img width="712" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/063acefa-4308-43e4-aec3-2c9e18bf600d">
+\
+프로젝트 SDK 설정 되고나서 콘솔에 뭐 이것저것 써지는거 멈춰지고 나면 아래처럼 DemoApplication이 초록색 화살표 옆에 뜨는게 정상입니다!
+안뜨면 그래들 클릭해서 
+\
+<img width="135" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/21dbf569-468b-4c51-abcc-d644c1c65f71">
+\
+이 버튼 하나 눌러주세요
+\
+초록색 화살표 클릭해서 백엔드 서버 실행하세요
+\
+<img width="668" alt="Screenshot 2023-08-11 at 11 30 57 AM" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/9efa93b5-df19-445b-a8d1-1e390a3c0c14">
+\
+복잡하다고 느끼실 수 있지만 한번만 설정해두면 나중엔 초록석 화살표만 누르면 됩니다.
 \
 그리고 프론트는 .. 잘 알고 계실테니 생략!!!
 \
