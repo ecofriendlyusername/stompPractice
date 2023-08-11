@@ -20,6 +20,13 @@ RabbitMQ(메시지 브로커) 설치
 
 
 
+인텔리제이에서 프로젝트 열려면 클론받은 폴더로 가서 
+<img width="368" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/94f55839-c4c4-4d7c-98cd-738b8de560a9">
+
+이렇게 demo폴더 선택해서 열어주세요
+
+<img width="487" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/fdb856d7-f07c-4283-aa31-9f7bb06a171f">
+
 프로젝트 처음 실행하기 전에 프로젝트 SDK 설정하라는 문구 나오면 자바17 선택
 프로젝트 SDK 설정 되고나서 콘솔에 뭐 이것저것 써지는거 멈춰지고 나면 아래처럼 DemoApplication이 초록색 화살표 옆에 뜨는게 정상입니다!
 초록색 화살표 클릭해서 백엔드 서버 실행하세요
