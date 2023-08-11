@@ -8,31 +8,41 @@
 
 RabbitMQ(메시지 브로커) 설치
 인터넷에서 나온대로 그냥 설치해주시면 됩니다~~ 
+<img width="419" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/22155728-f20f-4e0a-a5a4-e94b11d596d1">
+
 맥 homebrew로 설치시 아래 링크 참고
 [RabbitMQ installation - homebrew](https://www.rabbitmq.com/install-homebrew.html)
 
 설치하고 나면 아래와 같이 실행해줍니다
-![RabbitMQ 실행.png](img_9.png)
+<img width="502" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/c1ead8ef-00fb-46a5-bd0d-05a2e7fabc2b">
+
 
 프로젝트 처음 실행하기 전에 프로젝트 SDK 설정하라는 문구 나오면 자바17 선택
 프로젝트 SDK 설정 되고나서 콘솔에 뭐 이것저것 써지는거 멈춰지고 나면 아래처럼 DemoApplication이 초록색 화살표 옆에 뜨는게 정상입니다!
 초록색 화살표 클릭해서 백엔드 서버 실행하세요
-![DemoApplication.png](img_8.png)
+<img width="668" alt="Screenshot 2023-08-11 at 11 30 57 AM" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/9efa93b5-df19-445b-a8d1-1e390a3c0c14">
+
 인텔리J에서 실행할 때 기준!!
 여기서는 sockJS 사용 불가능
 
-![project structure 설정하기1.png](img_1.png)
+<img width="404" alt="project structure 설정하기" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/c33a0108-87b4-48d3-8b14-53ded047d399">
 
-![project structure 설정하기2.png](img_2.png)
+
+<img width="806" alt="project structure 설정하기2" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/43880155-0e2e-4789-861f-0d893c4cd955">
+
 위 처럼 설정되어있는지(자바17) 확인
-![settings 설정하기 1.png](img_4.png)
+<img width="251" alt="settings 설정하기2" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/b0f54ec6-bb26-4ca4-b6c3-147d13fac5b9">
 
-![settings 설정하기 2.png](img_3.png)
+
+<img width="982" alt="settings 설정하기" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/94c62a97-2433-4289-8267-d7b63f3941fb">
+
 위 처럼 설정되어있는지(자바17) 확인
 
 그리고 프론트는 .. 잘 알고 계실테니 생략!!!
 
-![예시1.png](img_5.png)
+<img width="254" alt="예시1" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/c60105ae-a1c8-4fc8-8066-309fa22670e1">
+
 이미 만들어진 채팅창 다른 브라우저에서 접속해보기
-![예시2.png](img_6.png)
+<img width="261" alt="예시2" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/1735fb2b-fc26-407b-9a6e-fdacbd0aeec9">
+
 다른 브라우저에서 접속한 유저가 채팅하는 것을 확인 가능
