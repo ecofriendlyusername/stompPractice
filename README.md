@@ -44,6 +44,7 @@ RabbitMQ(메시지 브로커) 설치
    <img width="806" alt="project structure 설정하기2" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/43880155-0e2e-4789-861f-0d893c4cd955">
    \
    위 처럼 설정되어있는지(SDK17) 확인
+   그리고 이제 settings 들어가서
    \
    <img width="251" alt="settings 설정하기2" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/b0f54ec6-bb26-4ca4-b6c3-147d13fac5b9">
    \
@@ -71,8 +72,8 @@ RabbitMQ(메시지 브로커) 설치
    그리고 프론트는 .. 잘 알고 계실테니 생략!!!
    \
 
-4. 실행시 예시
-5. \
+5. 실행시 예시
+6. \
    <img width="254" alt="예시1" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/c60105ae-a1c8-4fc8-8066-309fa22670e1">
    \
    이미 만들어진 채팅창 다른 브라우저에서 접속해보기
