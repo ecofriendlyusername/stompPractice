@@ -27,7 +27,17 @@ RabbitMQ(메시지 브로커) 설치
 
 <img width="487" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/fdb856d7-f07c-4283-aa31-9f7bb06a171f">
 
-프로젝트 처음 실행하기 전에 프로젝트 SDK 설정하라는 문구 나오면 자바17 선택
+
+DemoApplication.java라는 파일 클릭해주면
+<img width="942" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/34ced969-9d9a-45b9-b46a-90dee1773a51">
+
+SDK 설정하라는 문구 나오면 자바17 선택
+<img width="839" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/100200d2-0daa-43c8-8f2a-72cfef89bcfe">
+
+<img width="712" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/063acefa-4308-43e4-aec3-2c9e18bf600d">
+
+<img width="199" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/950f19e7-713e-4b65-8cac-98252434f1bd">
+
 프로젝트 SDK 설정 되고나서 콘솔에 뭐 이것저것 써지는거 멈춰지고 나면 아래처럼 DemoApplication이 초록색 화살표 옆에 뜨는게 정상입니다!
 초록색 화살표 클릭해서 백엔드 서버 실행하세요
 <img width="668" alt="Screenshot 2023-08-11 at 11 30 57 AM" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/9efa93b5-df19-445b-a8d1-1e390a3c0c14">
