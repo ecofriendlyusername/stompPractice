@@ -9,20 +9,18 @@
 
 1. RabbitMQ 설치 및 실행 
 RabbitMQ(메시지 브로커) 설치
-인터넷에서 나온대로 그냥 설치해주시면 됩니다~~ 
+인터넷에서 나온대로 그냥 설치해주시면 됩니다~~
 \
 <img width="419" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/22155728-f20f-4e0a-a5a4-e94b11d596d1">
 \
-맥 homebrew로 설치시 아래 링크 참고
-\
+맥 homebrew로 설치시 아래 링크 참고\
 [RabbitMQ installation - homebrew](https://www.rabbitmq.com/install-homebrew.html)
 \
-설치하고 나면 아래와 같이 실행해줍니다
-\
+설치하고 나면 아래와 같이 실행해줍니다\
 <img width="502" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/c1ead8ef-00fb-46a5-bd0d-05a2e7fabc2b">
 \
 
-2. 인텔리J에서 프로젝트 실행
+3. 인텔리J에서 프로젝트 실행
    2.1 프로젝트 열기
    인텔리제이에서 프로젝트 열려면 클론받은 폴더로 가서
    \
@@ -71,8 +69,8 @@ RabbitMQ(메시지 브로커) 설치
    그리고 프론트는 .. 잘 알고 계실테니 생략!!!
    \
 
-3. 실행시 예시
-4. \
+4. 실행시 예시
+5. \
    <img width="254" alt="예시1" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/c60105ae-a1c8-4fc8-8066-309fa22670e1">
    \
    이미 만들어진 채팅창 다른 브라우저에서 접속해보기
