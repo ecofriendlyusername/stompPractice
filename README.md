@@ -36,7 +36,6 @@ RabbitMQ(메시지 브로커) 설치
    DemoApplication.java라는 파일 클릭해주면
    \
    <img width="942" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/34ced969-9d9a-45b9-b46a-90dee1773a51">
-
    \
    Module JDK is not defined라고 뜹니다.
    \
