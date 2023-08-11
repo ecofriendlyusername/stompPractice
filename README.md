@@ -53,8 +53,6 @@ RabbitMQ(메시지 브로커) 설치
    \
    <img width="839" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/100200d2-0daa-43c8-8f2a-72cfef89bcfe">
    \
-   <img width="199" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/950f19e7-713e-4b65-8cac-98252434f1bd">
-   \
    <img width="712" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/063acefa-4308-43e4-aec3-2c9e18bf600d">
    \
    프로젝트 SDK 설정 되고나서 콘솔에 뭐 이것저것 써지는거 멈춰지고 나면 아래처럼 DemoApplication이 초록색 화살표 옆에 뜨는게 정상입니다!
