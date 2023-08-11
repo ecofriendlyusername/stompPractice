@@ -34,7 +34,6 @@ DemoApplication.java라는 파일 클릭해주면
 \
 Module JDK is not defined 옆에 Set up JDK를 클릭하여 자바17 선택
 인텔리J에서 실행할 때 기준!!
-여기서는 sockJS 사용 불가능
 \
 <img width="404" alt="project structure 설정하기" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/c33a0108-87b4-48d3-8b14-53ded047d399">
 \
