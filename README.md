@@ -43,6 +43,20 @@ RabbitMQ(메시지 브로커) 설치
    \
    옆에 Set up JDK를 클릭하여 SDK17(=JDK17) 선택해주세요
    \
+
+
+!!! SDK17(JDK17)없는 경우 
+<img width="647" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/78062ca3-f4cf-4bda-b9ef-29b10e0b96b1">
+\
+<img width="520" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/789a512e-5004-4973-8fa6-0bdd567c8781">
+\
+<img width="523" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/deee0f70-c86e-43ca-8509-102bb5414ac9">
+\
+위와 같이 설치!
+
+
+
+
    \
    이제 project structure 설정을 위해 아래처럼 들어가서 
    \
@@ -87,3 +101,5 @@ RabbitMQ(메시지 브로커) 설치
    <img width="261" alt="예시2" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/1735fb2b-fc26-407b-9a6e-fdacbd0aeec9">
    \
    다른 브라우저에서 접속한 유저가 채팅하는 것을 확인 가능
+
+   
