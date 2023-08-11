@@ -43,6 +43,8 @@ RabbitMQ(메시지 브로커) 설치
    \
    옆에 Set up JDK를 클릭하여 SDK17(=JDK17) 선택해주세요
    \
+   이제 project structure 설정을 위해 아래처럼 들어가서 
+   \
    <img width="404" alt="project structure 설정하기" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/c33a0108-87b4-48d3-8b14-53ded047d399">
    \
    <img width="806" alt="project structure 설정하기2" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/43880155-0e2e-4789-861f-0d893c4cd955">
