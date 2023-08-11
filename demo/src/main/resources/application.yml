@@ -1,0 +1,21 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            clientId: 326046910440-eu73tfreg4tcmukff13ou9jfnlkjnv43.apps.googleusercontent.com
+            clientSecret: wtpNJJEz5LGCmqOT5HGwdwwk
+            redirectUri: http://localhost:5500/index.html
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
+  datasource:
+    url: jdbc:h2:mem:testdb
+  jpa:
+    hibernate:
+      ddl-auto: create
+
+server:
+  port: 8081
