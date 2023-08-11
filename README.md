@@ -13,10 +13,12 @@ RabbitMQ(메시지 브로커) 설치
 \
 <img width="419" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/22155728-f20f-4e0a-a5a4-e94b11d596d1">
 \
-맥 homebrew로 설치시 아래 링크 참고\
+맥 homebrew로 설치시 아래 링크 참고
+\
 [RabbitMQ installation - homebrew](https://www.rabbitmq.com/install-homebrew.html)
 \
-설치하고 나면 아래와 같이 실행해줍니다\
+설치하고 나면 아래와 같이 실행해줍니다
+\
 <img width="502" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/c1ead8ef-00fb-46a5-bd0d-05a2e7fabc2b">
 \
 
