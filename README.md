@@ -8,62 +8,63 @@
 
 RabbitMQ(메시지 브로커) 설치
 인터넷에서 나온대로 그냥 설치해주시면 됩니다~~ 
+\
 <img width="419" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/22155728-f20f-4e0a-a5a4-e94b11d596d1">
-
-
+\
 맥 homebrew로 설치시 아래 링크 참고
+\
 [RabbitMQ installation - homebrew](https://www.rabbitmq.com/install-homebrew.html)
-
+\
 설치하고 나면 아래와 같이 실행해줍니다
+\
 <img width="502" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/c1ead8ef-00fb-46a5-bd0d-05a2e7fabc2b">
 
 
-
-
 인텔리제이에서 프로젝트 열려면 클론받은 폴더로 가서 
+\
 <img width="368" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/94f55839-c4c4-4d7c-98cd-738b8de560a9">
-
+\
 이렇게 demo폴더 선택해서 열어주세요
-
+\
 <img width="487" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/fdb856d7-f07c-4283-aa31-9f7bb06a171f">
-
-
+\
 DemoApplication.java라는 파일 클릭해주면
+\
 <img width="942" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/34ced969-9d9a-45b9-b46a-90dee1773a51">
-
+\
 SDK 설정하라는 문구 나오면 자바17 선택
+\
 <img width="839" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/100200d2-0daa-43c8-8f2a-72cfef89bcfe">
-
+\
 <img width="712" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/063acefa-4308-43e4-aec3-2c9e18bf600d">
-
+\
 <img width="199" alt="image" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/950f19e7-713e-4b65-8cac-98252434f1bd">
-
+\
 프로젝트 SDK 설정 되고나서 콘솔에 뭐 이것저것 써지는거 멈춰지고 나면 아래처럼 DemoApplication이 초록색 화살표 옆에 뜨는게 정상입니다!
+\
 초록색 화살표 클릭해서 백엔드 서버 실행하세요
+\
 <img width="668" alt="Screenshot 2023-08-11 at 11 30 57 AM" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/9efa93b5-df19-445b-a8d1-1e390a3c0c14">
-
-
+\
+복잡하다고 느끼실 수 있지만 한번만 설정해두면 나중엔 초록석 화살표만 누르면 됩니다.
 
 인텔리J에서 실행할 때 기준!!
 여기서는 sockJS 사용 불가능
-
+\
 <img width="404" alt="project structure 설정하기" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/c33a0108-87b4-48d3-8b14-53ded047d399">
-
-
+\
 <img width="806" alt="project structure 설정하기2" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/43880155-0e2e-4789-861f-0d893c4cd955">
-
-
+\
 위 처럼 설정되어있는지(자바17) 확인
+\
 <img width="251" alt="settings 설정하기2" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/b0f54ec6-bb26-4ca4-b6c3-147d13fac5b9">
-
-
+\
 <img width="982" alt="settings 설정하기" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/94c62a97-2433-4289-8267-d7b63f3941fb">
-
-
+\
 위 처럼 설정되어있는지(자바17) 확인
-
+\
 그리고 프론트는 .. 잘 알고 계실테니 생략!!!
-
+\
 <img width="254" alt="예시1" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/c60105ae-a1c8-4fc8-8066-309fa22670e1">
 
 
