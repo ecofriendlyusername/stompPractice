@@ -44,6 +44,7 @@ RabbitMQ(메시지 브로커) 설치
    <img width="806" alt="project structure 설정하기2" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/43880155-0e2e-4789-861f-0d893c4cd955">
    \
    위 처럼 설정되어있는지(SDK17) 확인
+   \
    그리고 이제 settings 들어가서
    \
    <img width="251" alt="settings 설정하기2" src="https://github.com/ecofriendlyusername/stompPractice/assets/46067895/b0f54ec6-bb26-4ca4-b6c3-147d13fac5b9">
