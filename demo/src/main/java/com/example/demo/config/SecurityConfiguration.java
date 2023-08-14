@@ -51,6 +51,7 @@ public class SecurityConfiguration {
                 )
                 .oauth2Login(oauth2Login ->
                         oauth2Login
+                                .defaultSuccessUrl("http://localhost:5500/index.html")
                                 .userInfoEndpoint(userInfoEndpoint ->
                                         userInfoEndpoint
                                                 .oidcUserService(customUserService) // Use your custom OAuth2UserService
