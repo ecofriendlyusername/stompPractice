@@ -6,7 +6,7 @@ spring:
           google:
             clientId: 326046910440-eu73tfreg4tcmukff13ou9jfnlkjnv43.apps.googleusercontent.com
             clientSecret: wtpNJJEz5LGCmqOT5HGwdwwk
-            redirectUri: http://localhost:5500/index.html
+#            redirectUri: http://localhost:5500/index.html
   h2:
     console:
       enabled: true
